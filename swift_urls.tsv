@@ -1077,3 +1077,4 @@ advanced	http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swif
 libs	http://github.com/ayanonagon/Polyglot	Polyglot: A simple Swift API for Microsoft Translator		20010101
 libs	http://github.com/jkolb/midnightbacon	midnightbacon: An iOS Reddit client		20010101
 advanced	http://radex.io/swift/nstimer	Swifty APIs: NSTimer		20150511
+tutorial  http://memkite.com/blog/2015/06/10/swift-and-metal-gpu-programming-on-osx-10-11-el-capitan/ 20150610
